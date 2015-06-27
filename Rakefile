@@ -32,6 +32,7 @@ ENV['LANG'] = "en_US.UTF-8"
     "examples/file_cap.rb",
     "examples/simple_cap.rb",
     "examples/telnet-raw.pcap",
+    "example/pcap_many_examples.rb",
     "ext/pcaprub_c/extconf.rb",
     "ext/pcaprub_c/pcaprub.c",
     "lib/pcaprub.rb",
