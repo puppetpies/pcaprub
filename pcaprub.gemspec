@@ -29,6 +29,7 @@ Gem::Specification.new do |spec|
     "examples/file_cap.rb",
     "examples/simple_cap.rb",
     "examples/telnet-raw.pcap",
+    "examples/pcap_many_examples.rb",
     "ext/pcaprub/extconf.rb",
     "ext/pcaprub/pcaprub.c",
     "lib/pcaprub.rb",
